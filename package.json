@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuslima99/ignite-design-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheuslima99/ignite-design-system/issues"
+  },
+  "homepage": "https://github.com/matheuslima99/ignite-design-system#readme"
+}
