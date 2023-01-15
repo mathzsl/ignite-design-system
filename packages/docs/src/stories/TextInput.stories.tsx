@@ -10,12 +10,6 @@ export default {
   title: 'Form/Text Input',
   component: TextInput,
   args: {},
-} as Meta<TextInputProps>
-
-export const Primary: StoryObj<TextInputProps> = {
-  args: {
-    placeholder: 'Type your name',
-  },
   decorators: [
     (Story) => {
       return (
@@ -29,6 +23,12 @@ export const Primary: StoryObj<TextInputProps> = {
       )
     },
   ],
+} as Meta<TextInputProps>
+
+export const Primary: StoryObj<TextInputProps> = {
+  args: {
+    placeholder: 'Type your name',
+  },
 }
 
 export const WithPrefix: StoryObj<TextInputProps> = {
