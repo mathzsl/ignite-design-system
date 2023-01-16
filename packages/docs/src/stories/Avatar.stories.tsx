@@ -6,6 +6,14 @@ export default {
   component: Avatar,
   args: {
     src: 'https://github.com/matheuslima99.png',
+    alt: 'Matheus Lima',
+  },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
   },
 } as Meta<AvatarProps>
 
