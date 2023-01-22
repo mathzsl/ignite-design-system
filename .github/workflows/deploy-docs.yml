@@ -23,7 +23,7 @@ jobs:
         env:
           TURBO_TOKEN: kYZINAl3Zlu4QGCMKogZZAia
           TURBO_TEAM: matheuslima99
-          TURBO_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+         
 
       - name: Deploy storybook
         working-directory: ./packages/docs
