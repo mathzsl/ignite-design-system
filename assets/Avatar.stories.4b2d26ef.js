@@ -1,0 +1,2 @@
+import{A as t}from"./index.e21979e4.js";import"./index.6c769b3a.js";import"./iframe.10c360b0.js";import"./index.0af14fc4.js";import"./jsx-runtime.63f5d682.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/matheuslima99.png",alt:"Matheus Lima"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","WithFallBack"];export{p as Primary,c as WithFallBack,e as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.4b2d26ef.js.map
