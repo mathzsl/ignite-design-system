@@ -4,7 +4,7 @@ import { styled } from '../styles'
 export const Box = styled('div', {
   border: '1px solid $gray600',
   borderRadius: '$md',
-  padding: '$4',
+  padding: '$6',
   backgroundColor: '$gray800',
 })
 
